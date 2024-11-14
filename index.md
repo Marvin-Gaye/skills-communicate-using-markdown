@@ -1,4 +1,10 @@
 # <h1>WHAT IS THE MEANING OF THE YELLOW DUCK?
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
